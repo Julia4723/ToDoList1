@@ -13,7 +13,6 @@
 		CECD589F2BE0CDC8001DC86A /* ToDoList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CECD589D2BE0CDC8001DC86A /* ToDoList.xcdatamodeld */; };
 		CECD58A12BE0CDC9001DC86A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CECD58A02BE0CDC9001DC86A /* Assets.xcassets */; };
 		CECD58A42BE0CDC9001DC86A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CECD58A32BE0CDC9001DC86A /* Base */; };
-		CECD58AC2BE0DC68001DC86A /* NewTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECD58AB2BE0DC68001DC86A /* NewTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		CECD58A02BE0CDC9001DC86A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CECD58A32BE0CDC9001DC86A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CECD58A52BE0CDC9001DC86A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CECD58AB2BE0DC68001DC86A /* NewTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				CECD58942BE0CDC8001DC86A /* AppDelegate.swift */,
 				CECD58962BE0CDC8001DC86A /* SceneDelegate.swift */,
 				CECD58982BE0CDC8001DC86A /* TaskListViewController.swift */,
-				CECD58AB2BE0DC68001DC86A /* NewTaskViewController.swift */,
 				CECD58A02BE0CDC9001DC86A /* Assets.xcassets */,
 				CECD58A22BE0CDC9001DC86A /* LaunchScreen.storyboard */,
 				CECD58A52BE0CDC9001DC86A /* Info.plist */,
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CECD58992BE0CDC8001DC86A /* TaskListViewController.swift in Sources */,
-				CECD58AC2BE0DC68001DC86A /* NewTaskViewController.swift in Sources */,
 				CECD58952BE0CDC8001DC86A /* AppDelegate.swift in Sources */,
 				CECD58972BE0CDC8001DC86A /* SceneDelegate.swift in Sources */,
 				CECD589F2BE0CDC8001DC86A /* ToDoList.xcdatamodeld in Sources */,
